@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there 👋 I'm Olivier
 
-<!--
-**Olivier0324/Olivier0324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Frontend Development through the ALX Software Engineering Program.  
+🧠 My strengths include empathy, problem-solving, and visual creativity.  
+🚀 My mission is to build beautiful, user-focused websites that solve real-world problems.  
+🔧 Currently working with:  
+- HTML, CSS  
+- JavaScript  
+- Git & GitHub  
+- Responsive Design
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach out on [LinkedIn](https://www.linkedin.com/in/cyuzuzo-kwizera-olivier-b400b733b/) to connect or collaborate!
