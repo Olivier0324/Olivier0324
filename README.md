@@ -5,7 +5,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Frontend developer** with experience in **HTML,CSS,JS,REACT and UI&UX design**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Frontend developer** with experience in **HTML,CSS,JS,REACT and UI & UX design**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 🌱 I’m currently learning Frontend Development through the ALX Software Engineering Program.  
 🧠 My strengths include empathy, problem-solving, and visual creativity.  
